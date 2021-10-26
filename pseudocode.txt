@@ -8,5 +8,6 @@ sum = 0
 
 WHILE n <= x
     sum += n
+    n += 1
 
 PRINT "The sum from 1 to your integer is " x
