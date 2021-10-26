@@ -1,0 +1,12 @@
+PRINT "Please input an integer more than 1"
+
+READ x
+
+n = 1
+
+sum = 0
+
+WHILE n <= x
+    sum += n
+
+PRINT "The sum from 1 to your integer is " x
